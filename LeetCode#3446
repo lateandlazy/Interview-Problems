@@ -1,0 +1,18 @@
+import heapq
+class Solution:
+    def sortMatrix(self, grid: List[List[int]]) -> List[List[int]]:
+        n = len(grid)
+        m = len(grid[0])
+        diag = {}
+        for i in range(n):
+            for j in range(m):
+                k = i - j
+                if k not in diag: diag[k] = []
+                if k < 0: heapq.heappush(diag[k], grid[i][j])
+                else: heapq.heappush(diag[k], -grid[i][j])
+        for i in range(n):
+            for j in range(m):
+                k = i - j
+                if k < 0: grid[i][j] = heapq.heappop(diag[k])
+                else: grid[i][j] = -heapq.heappop(diag[k])
+        return grid 
