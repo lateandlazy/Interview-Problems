@@ -1,0 +1,13 @@
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        n = len(s)
+        m = len(t)
+        if n != m : return False
+        f1 = defaultdict(int)
+        f2 = defaultdict(int)
+        for i in s:
+            f1[i] += 1
+        for j in t:
+            f2[j] += 1
+        if f1 == f2: return True
+        return False
