@@ -1,12 +1,9 @@
 class Solution:
     def largestOddNumber(self, num: str) -> str:
         n = len(num)
-        ans = ''
-        temp = ''
-        for i in range(n):
+        ans = num
+        for i in range(n - 1, -1,-1):
             if int(num[i]) % 2 != 0:
-                temp += num[i]
-                ans = temp
-            else:
-                temp += num[i]
+                return ans
+            else: ans = ans[:-1]
         return ans 
