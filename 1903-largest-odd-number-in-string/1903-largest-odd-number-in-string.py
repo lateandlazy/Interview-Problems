@@ -3,7 +3,6 @@ class Solution:
         n = len(num)
         ans = num
         for i in range(n - 1, -1,-1):
-            if int(num[i]) % 2 != 0:
-                return ans
-            else: ans = ans[:-1]
-        return ans 
+            if num[i] in '13579':
+                return num[:i + 1]
+        return '' 
