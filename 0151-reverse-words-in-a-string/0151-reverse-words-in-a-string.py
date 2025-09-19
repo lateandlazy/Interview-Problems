@@ -1,20 +1,18 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
         n = len(s)
-        ans = []
-        res = ''
+        ans = ''
         temp = ''
         for i in range(n):
             if s[i] == ' ':
                 if not temp: continue
-                ans.append(temp)
+                ans = temp + ' ' + ans
+                ans += ' '
                 temp = ''
             else:
                 temp += s[i]
-        ans.append(temp)        
-        for x in reversed(ans):
-            res = res + ' ' + x
-        return res.strip()    
+        ans = temp + ' ' + ans
+        return ans.strip()               
 
 
 
