@@ -5,7 +5,7 @@ class Solution:
         while numBottles > 0:
             ans += numBottles
             total = numBottles + extra
-            temp = int(total // numExchange)
+            temp = (total // numExchange)
             extra = total % numExchange
             numBottles = temp    
         return ans 
