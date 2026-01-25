@@ -7,8 +7,8 @@ class Solution:
         i = 0
         j = k
         while j <= n:
-            mx = max(nums[i:j])
-            mn = min(nums[i:j])
+            mx = nums[j-1]
+            mn = nums[i]
             diff = mx - mn
             if diff < MIN:
                 MIN = diff
