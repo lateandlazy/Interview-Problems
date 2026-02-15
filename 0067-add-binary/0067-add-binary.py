@@ -3,5 +3,4 @@ class Solution:
         x = int(a,2)
         y = int(b,2)
         z = x + y
-        #z = bin(z)
-        return f"{z:b}"
+        return bin(z)[2:]
