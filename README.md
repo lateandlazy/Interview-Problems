@@ -64,6 +64,7 @@ Using Python3 and C++ !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/lateandlazy/Interview-Problems/tree/main/0035-search-insert-position/) | Easy |
+| [0278-first-bad-version](https://github.com/lateandlazy/Interview-Problems/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/lateandlazy/Interview-Problems/tree/main/0704-binary-search/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lateandlazy/Interview-Problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Greedy
@@ -74,4 +75,8 @@ Using Python3 and C++ !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lateandlazy/Interview-Problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/lateandlazy/Interview-Problems/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
