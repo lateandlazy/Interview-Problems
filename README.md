@@ -28,6 +28,7 @@ Using Python3 and C++ !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/lateandlazy/Interview-Problems/tree/main/0035-search-insert-position/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/lateandlazy/Interview-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/lateandlazy/Interview-Problems/tree/main/0704-binary-search/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/lateandlazy/Interview-Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lateandlazy/Interview-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -69,6 +70,7 @@ Using Python3 and C++ !!
 | [0035-search-insert-position](https://github.com/lateandlazy/Interview-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0278-first-bad-version](https://github.com/lateandlazy/Interview-Problems/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/lateandlazy/Interview-Problems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/lateandlazy/Interview-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/lateandlazy/Interview-Problems/tree/main/0704-binary-search/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/lateandlazy/Interview-Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lateandlazy/Interview-Problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
