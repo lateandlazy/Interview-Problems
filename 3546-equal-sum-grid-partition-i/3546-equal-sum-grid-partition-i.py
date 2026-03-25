@@ -13,7 +13,6 @@ class Solution:
                 s += grid[j][i] 
             cl.append(s)
         rSum = sum(rw)
-        cSum = sum(cl)
         rPre = [0] * len(rw)
         rPre[0] = rw[0]
         cPre = [0] * len(cl)
@@ -26,6 +25,6 @@ class Solution:
             if rPre[j] == rSum - rPre[j]:
                 return True
         for j in range(len(cPre)-1):
-            if cPre[j] == cSum - cPre[j]:
+            if cPre[j] == rSum - cPre[j]:
                 return True
         return False 
