@@ -3,10 +3,19 @@ class Solution:
         n = len(mat)
         m = len(mat[0])
         temp = -1
-        for i in range(n):
-            if mat[i][-1] >= target:
-                temp = i 
-                break
+        low = 0
+        high = n - 1
+        while low <= high:
+            mid = low + (high - low) // 2
+            if mat[mid][-1] < target:
+                low = mid + 1
+            elif mat[mid][-1] > target:
+                high = mid - 1
+            else:
+                return True
+        temp = high + 1    
+        if temp >= n:
+            return False        
         low = 0
         high = m - 1
         while low <= high:
