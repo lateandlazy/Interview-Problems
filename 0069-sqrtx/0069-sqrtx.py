@@ -4,10 +4,10 @@ class Solution:
         high = x
         while low <= high:
             mid = low + (high - low) // 2
-            if mid ** 2 > x:
+            if mid > x // mid:
                 high = mid - 1
-            elif mid ** 2 < x:
+            elif mid < x // mid:
                 low = mid + 1
             else:
                 return mid
-        return low - 1     
+        return high    
