@@ -63,11 +63,13 @@ Using Python3 and C++ !!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/lateandlazy/Interview-Problems/tree/main/0069-sqrtx/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lateandlazy/Interview-Problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/lateandlazy/Interview-Problems/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/lateandlazy/Interview-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0278-first-bad-version](https://github.com/lateandlazy/Interview-Problems/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/lateandlazy/Interview-Problems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/lateandlazy/Interview-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
