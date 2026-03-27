@@ -24,6 +24,7 @@ Using Python3 and C++ !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/lateandlazy/Interview-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lateandlazy/Interview-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ Using Python3 and C++ !!
 | [1539-kth-missing-positive-number](https://github.com/lateandlazy/Interview-Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lateandlazy/Interview-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/lateandlazy/Interview-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lateandlazy/Interview-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lateandlazy/Interview-Problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/lateandlazy/Interview-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/lateandlazy/Interview-Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -42,6 +44,7 @@ Using Python3 and C++ !!
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lateandlazy/Interview-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lateandlazy/Interview-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lateandlazy/Interview-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/lateandlazy/Interview-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/lateandlazy/Interview-Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Dynamic Programming
@@ -69,6 +72,7 @@ Using Python3 and C++ !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/lateandlazy/Interview-Problems/tree/main/0069-sqrtx/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lateandlazy/Interview-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lateandlazy/Interview-Problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
