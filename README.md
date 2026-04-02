@@ -42,6 +42,7 @@ Using Python3 and C++ !!
 | [2751-robot-collisions](https://github.com/lateandlazy/Interview-Problems/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lateandlazy/Interview-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lateandlazy/Interview-Problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/lateandlazy/Interview-Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/lateandlazy/Interview-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/lateandlazy/Interview-Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Matrix
@@ -50,12 +51,14 @@ Using Python3 and C++ !!
 | [0074-search-a-2d-matrix](https://github.com/lateandlazy/Interview-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lateandlazy/Interview-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lateandlazy/Interview-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/lateandlazy/Interview-Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/lateandlazy/Interview-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/lateandlazy/Interview-Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lateandlazy/Interview-Problems/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/lateandlazy/Interview-Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
