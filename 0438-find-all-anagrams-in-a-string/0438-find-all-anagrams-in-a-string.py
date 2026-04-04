@@ -15,6 +15,8 @@ class Solution:
         for i in range(m,n):
             fqs[s[i]] += 1
             fqs[s[i-m]] -= 1
+            if fqs[s[i-m]] == 0:
+                del fqs[s[i-m]]
             if fqs == fqp:
                 res.append(i-m+1)
         return res
