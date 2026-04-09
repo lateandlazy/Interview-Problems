@@ -11,6 +11,7 @@ Using Python3 and C++ !!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/lateandlazy/Interview-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lateandlazy/Interview-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/lateandlazy/Interview-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/lateandlazy/Interview-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -60,6 +61,7 @@ Using Python3 and C++ !!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/lateandlazy/Interview-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/lateandlazy/Interview-Problems/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/lateandlazy/Interview-Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Sliding Window
@@ -77,6 +79,7 @@ Using Python3 and C++ !!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/lateandlazy/Interview-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/lateandlazy/Interview-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
