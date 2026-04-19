@@ -44,6 +44,7 @@ Using Python3 and C++ !!
 | [0704-binary-search](https://github.com/lateandlazy/Interview-Problems/tree/main/0704-binary-search/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/lateandlazy/Interview-Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lateandlazy/Interview-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/lateandlazy/Interview-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/lateandlazy/Interview-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lateandlazy/Interview-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/lateandlazy/Interview-Problems/tree/main/2751-robot-collisions/) | Hard |
@@ -110,6 +111,7 @@ Using Python3 and C++ !!
 | [0540-single-element-in-a-sorted-array](https://github.com/lateandlazy/Interview-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/lateandlazy/Interview-Problems/tree/main/0704-binary-search/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/lateandlazy/Interview-Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/lateandlazy/Interview-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lateandlazy/Interview-Problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -158,4 +160,8 @@ Using Python3 and C++ !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/lateandlazy/Interview-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/lateandlazy/Interview-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 <!---LeetCode Topics End-->
