@@ -12,7 +12,8 @@ class Solution:
         n = len(queries)
         for nm in queries:
             for mn in dictionary:
-                if check(nm, mn):
+                x = check(nm, mn)
+                if x:
                     res.append(nm)
                     break
         return res            
