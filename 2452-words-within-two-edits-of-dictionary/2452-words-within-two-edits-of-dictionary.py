@@ -6,13 +6,13 @@ class Solution:
                 if a[i] != b[i]:
                     cnt += 1
                     if cnt > 2:
-                        break
-            return cnt        
+                        return False
+            return True       
         res = []
         n = len(queries)
         for nm in queries:
             for mn in dictionary:
-                if check(nm, mn) <= 2:
+                if check(nm, mn):
                     res.append(nm)
                     break
         return res            
