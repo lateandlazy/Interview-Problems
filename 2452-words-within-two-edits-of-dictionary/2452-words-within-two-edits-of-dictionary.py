@@ -5,6 +5,8 @@ class Solution:
             for i in range(len(a)):
                 if a[i] != b[i]:
                     cnt += 1
+                    if cnt > 2:
+                        break
             return cnt        
         res = []
         n = len(queries)
