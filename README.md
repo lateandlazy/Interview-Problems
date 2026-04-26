@@ -45,6 +45,7 @@ Using Python3 and C++ !!
 | [0540-single-element-in-a-sorted-array](https://github.com/lateandlazy/Interview-Problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/lateandlazy/Interview-Problems/tree/main/0704-binary-search/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/lateandlazy/Interview-Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/lateandlazy/Interview-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lateandlazy/Interview-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lateandlazy/Interview-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/lateandlazy/Interview-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -63,6 +64,7 @@ Using Python3 and C++ !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lateandlazy/Interview-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/lateandlazy/Interview-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lateandlazy/Interview-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lateandlazy/Interview-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/lateandlazy/Interview-Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -177,4 +179,16 @@ Using Python3 and C++ !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/lateandlazy/Interview-Problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/lateandlazy/Interview-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/lateandlazy/Interview-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/lateandlazy/Interview-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
