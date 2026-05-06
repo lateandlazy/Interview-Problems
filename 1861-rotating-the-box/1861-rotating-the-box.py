@@ -10,19 +10,16 @@ class Solution:
                     cnt += 1
                 elif boxGrid[i][j] == '*':
                     res[j][n-i-1] = '*'
-                    if cnt > 0:
-                        k = j - 1
-                        while cnt > 0:
-                            res[k][n-i-1] = '#'
-                            cnt -= 1
-                            k -= 1
-                        cnt = 0    
-            if cnt > 0:
-                k = m - 1
-                while cnt > 0:
-                    res[k][n-i-1] = '#'
-                    cnt -= 1
-                    k -= 1
+                    k = j - 1
+                    while cnt > 0:
+                        res[k][n-i-1] = '#'
+                        cnt -= 1
+                        k -= 1   
+            k = m - 1
+            while cnt > 0:
+                res[k][n-i-1] = '#'
+                cnt -= 1
+                k -= 1
         return res         
 
                 
