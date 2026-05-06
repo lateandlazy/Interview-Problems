@@ -1,15 +1,7 @@
 class Solution:
     def rotateTheBox(self, boxGrid: List[List[str]]) -> List[List[str]]:
         n = len(boxGrid)
-        m = len(boxGrid[0])
-        def rev(ar):
-            i = 0
-            j = len(ar) - 1
-            while i < j:
-                ar[i], ar[j] = ar[j], ar[i]
-                i += 1
-                j -= 1
-            return ar     
+        m = len(boxGrid[0])     
         res = [['.'] * n for _ in range(m)]
         for i in range(n):
             cnt = 0
