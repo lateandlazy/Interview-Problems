@@ -49,6 +49,7 @@ Using Python3 and C++ !!
 | [1559-detect-cycles-in-2d-grid](https://github.com/lateandlazy/Interview-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lateandlazy/Interview-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lateandlazy/Interview-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/lateandlazy/Interview-Problems/tree/main/1861-rotating-the-box/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/lateandlazy/Interview-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/lateandlazy/Interview-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lateandlazy/Interview-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -69,6 +70,7 @@ Using Python3 and C++ !!
 | [0074-search-a-2d-matrix](https://github.com/lateandlazy/Interview-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/lateandlazy/Interview-Problems/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lateandlazy/Interview-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1861-rotating-the-box](https://github.com/lateandlazy/Interview-Problems/tree/main/1861-rotating-the-box/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/lateandlazy/Interview-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lateandlazy/Interview-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/lateandlazy/Interview-Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -183,6 +185,7 @@ Using Python3 and C++ !!
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/lateandlazy/Interview-Problems/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lateandlazy/Interview-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/lateandlazy/Interview-Problems/tree/main/1861-rotating-the-box/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
