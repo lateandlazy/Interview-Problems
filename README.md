@@ -59,6 +59,7 @@ Using Python3 and C++ !!
 | [2751-robot-collisions](https://github.com/lateandlazy/Interview-Problems/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lateandlazy/Interview-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lateandlazy/Interview-Problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lateandlazy/Interview-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/lateandlazy/Interview-Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/lateandlazy/Interview-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/lateandlazy/Interview-Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -114,6 +115,7 @@ Using Python3 and C++ !!
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/lateandlazy/Interview-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lateandlazy/Interview-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lateandlazy/Interview-Problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lateandlazy/Interview-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/lateandlazy/Interview-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/lateandlazy/Interview-Problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Binary Search
