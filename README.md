@@ -56,6 +56,7 @@ Using Python3 and C++ !!
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lateandlazy/Interview-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/lateandlazy/Interview-Problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lateandlazy/Interview-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/lateandlazy/Interview-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/lateandlazy/Interview-Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/lateandlazy/Interview-Problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/lateandlazy/Interview-Problems/tree/main/2751-robot-collisions/) | Hard |
@@ -97,6 +98,7 @@ Using Python3 and C++ !!
 | [0438-find-all-anagrams-in-a-string](https://github.com/lateandlazy/Interview-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/lateandlazy/Interview-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/lateandlazy/Interview-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2540-minimum-common-value](https://github.com/lateandlazy/Interview-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/lateandlazy/Interview-Problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/lateandlazy/Interview-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/lateandlazy/Interview-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -134,6 +136,7 @@ Using Python3 and C++ !!
 | [0704-binary-search](https://github.com/lateandlazy/Interview-Problems/tree/main/0704-binary-search/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/lateandlazy/Interview-Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lateandlazy/Interview-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2540-minimum-common-value](https://github.com/lateandlazy/Interview-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/lateandlazy/Interview-Problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -193,6 +196,7 @@ Using Python3 and C++ !!
 | [0061-rotate-list](https://github.com/lateandlazy/Interview-Problems/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lateandlazy/Interview-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/lateandlazy/Interview-Problems/tree/main/1861-rotating-the-box/) | Medium |
+| [2540-minimum-common-value](https://github.com/lateandlazy/Interview-Problems/tree/main/2540-minimum-common-value/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
