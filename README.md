@@ -35,6 +35,7 @@ Using Python3 and C++ !!
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/lateandlazy/Interview-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/lateandlazy/Interview-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/lateandlazy/Interview-Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/lateandlazy/Interview-Problems/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lateandlazy/Interview-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Array
@@ -55,6 +56,7 @@ Using Python3 and C++ !!
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lateandlazy/Interview-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/lateandlazy/Interview-Problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lateandlazy/Interview-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/lateandlazy/Interview-Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/lateandlazy/Interview-Problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/lateandlazy/Interview-Problems/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lateandlazy/Interview-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
