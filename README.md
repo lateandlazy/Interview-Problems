@@ -25,6 +25,7 @@ Using Python3 and C++ !!
 | [2833-furthest-point-from-origin](https://github.com/lateandlazy/Interview-Problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/lateandlazy/Interview-Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/lateandlazy/Interview-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/lateandlazy/Interview-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/lateandlazy/Interview-Problems/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ Using Python3 and C++ !!
 | [2615-sum-of-distances](https://github.com/lateandlazy/Interview-Problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/lateandlazy/Interview-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/lateandlazy/Interview-Problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/lateandlazy/Interview-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/lateandlazy/Interview-Problems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/lateandlazy/Interview-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Backtracking
